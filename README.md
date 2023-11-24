@@ -1,7 +1,3 @@
-## HooBank
-A Mordern web app for the Next
-Generation of Payment Method.
-
 ## Screenshot
 
 ![1](picture/1.png)
